@@ -4,6 +4,7 @@
 
 ## Description
 
+
 When the application is opened, users see two labels, one text field, and three buttons.
 * **Labels**
      * **_Informative Label:_**  Gives information when you click the control button
@@ -18,7 +19,11 @@ When the application is opened, users see two labels, one text field, and three 
 
 ## How to work?
 
+<img src="CaptchaProject/Media/2.PNG" alt="application elements" width="320">
+
 The users type the expression they see in the random label in the text field.
+
+
 
 - Clicks the Check Button
     * If users enter an empty expression and click the check button, the informative label gives information "Please type any character..." to users.
